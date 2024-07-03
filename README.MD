@@ -49,6 +49,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+## 🎙 Publicação
+
+- [Link da Puplicação no Youtube](https://youtu.be/hCdeO9L6v7c)
+
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
@@ -71,25 +75,17 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/22550201?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGenivan Souza<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/genivanss">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/genivanss">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/genivanss/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
